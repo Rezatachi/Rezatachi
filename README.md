@@ -3,11 +3,11 @@ My name is Abraham Belayneh. Here you will find all my links and affiliates. I a
 
 🔭 I’m currently working on ...
 
-[![Rezatachi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Reza__)](https://github.com/Rezatachi/github-readme-stats)
+[![Rezatachi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rezatachi)](https://github.com/Rezatachi/github-readme-stats)
 
 🐱‍👤 Programming languages
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Reza__&layout=compact)  
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezatachi&layout=compact)  
 
 🌱 I’m currently learning ...
 
