@@ -11,9 +11,9 @@ My name is Abraham Belayneh. Here you will find all my links and affiliates. I a
 
 🌱 I’m currently learning ...
 
-REACT.JS  
-PYTHON  
-JAVASCRIPT
+## React
+## Python
+## Node.js/Firebase
 
 
 ⚡ Fun fact: ...
