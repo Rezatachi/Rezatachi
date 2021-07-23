@@ -15,7 +15,7 @@ My name is Abraham Belayneh. Here you will find all my links and affiliates. I a
 
 🌱 I’m currently learning ...
 
-## React
+## React.js/MongoDB
 ## Python
 ## Node.js/Express.js
 
