@@ -17,7 +17,7 @@ My name is Abraham Belayneh. Here you will find all my links and affiliates. I a
 
 ## React
 ## Python
-## Node.js/Firebase
+## Node.js/Express.js
 
 📫 How to reach me: ...
 [Website-Portfolio](https://abrahamb.netlify.app/)
