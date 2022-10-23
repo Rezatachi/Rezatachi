@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Abraham Belayneh. Here you will find all my links and affiliates. I am a computer science major attending the California Institute of Technology (Caltech), with practice and passion in Software Development and Photography. I have knowledge in Full-Stack Development. If you feel the need to contact me directly, please refer to my email or my instagram.
+My name is Abraham Belayneh. Here you will find all my links and affiliates. I have knowledge in Full-Stack Development. If you feel the need to contact me directly, please refer to my email or my instagram.
 
 ⚡ Fun fact: ...
 
