@@ -5,10 +5,6 @@ My name is Abraham Belayneh. Here you will find all my links and affiliates. I h
 
 ![Rezatachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezatachi&show_icons=true&theme=synthwave)
 
-🔭 I’m currently working on ...
-
-[![Rezatachi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rezatachi&show_icons=true&theme=synthwave)](https://github.com/Rezatachi/github-readme-stats)
-
 🐱‍👤 Programming languages
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezatachi&show_icons=true&theme=synthwave&layout=compact)  
